@@ -1,3 +1,5 @@
+Developed by NIRXBLOCK PAYMENT SYSTEMS (2019)
+
 pragma solidity ^0.4.11;
 
 /**
